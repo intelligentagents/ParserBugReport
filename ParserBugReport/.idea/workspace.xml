@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cf2f75b-83ed-45ef-9797-4464847860c2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/br/edu/ufal/parserbugreport/control/App.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/br/edu/ufal/parserbugreport/control/GetInformation.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bugsmells.iml" afterPath="$PROJECT_DIR$/parserbugreport.iml" />
     </list>
     <ignored path="bugsmells.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -886,12 +885,12 @@
       <workItem from="1506559118435" duration="828000" />
       <workItem from="1506624990001" duration="3095000" />
       <workItem from="1506700293016" duration="819000" />
-      <workItem from="1506701401266" duration="638000" />
+      <workItem from="1506701401266" duration="709000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87985000" />
+    <option name="totallyTimeSpent" value="88056000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">

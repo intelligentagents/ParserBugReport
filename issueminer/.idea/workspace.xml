@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cf2f75b-83ed-45ef-9797-4464847860c2" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../issueminer/parserbugreport.iml" afterPath="" />
+      <change type="MOVED" beforePath="$USER_HOME$/Developer/ParserBugReport/issueminer/bugsmells.iml" afterPath="$USER_HOME$/Developer/ParserBugReport/issueminer/parserbugreport.iml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Developer/ParserBugReport/issueminer/.idea/modules.xml" afterPath="$USER_HOME$/Developer/ParserBugReport/issueminer/.idea/modules.xml" />
     </list>
     <ignored path="bugsmells.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
-    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$USER_HOME$/Developer/ParserBugReport/issueminer/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,28 +24,7 @@
     <favorites_list name="bugsmells" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/br/edu/ufal/parserbugreport/view/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="App.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/br/edu/ufal/parserbugreport/control/App.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -63,7 +43,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/Developer/ParserBugReport" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -73,32 +53,32 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/br/edu/ufal/bugsmells/Util.java" />
-        <option value="$PROJECT_DIR$/src/main/java/br/edu/ufal/bugsmells/Okhttp_BugsInfo" />
-        <option value="$PROJECT_DIR$/src/main/java/br/edu/ufal/bugsmells/Presto_BugsInfo" />
-        <option value="$PROJECT_DIR$/src/main/java/br/edu/ufal/bugsmells/Commit.java" />
-        <option value="$PROJECT_DIR$/src/main/java/br/edu/ufal/bugsmells/Presto" />
-        <option value="$PROJECT_DIR$/src/main/java/br/edu/ufal/bugsmells/okhttp" />
-        <option value="$PROJECT_DIR$/src/main/java/br/edu/ufal/bugsmells/App.java" />
-        <option value="$PROJECT_DIR$/src/main/java/br/edu/ufal/bugsmells/Bug.java" />
-        <option value="$PROJECT_DIR$/src/main/java/br/edu/ufal/bugsmells/Correction.java" />
-        <option value="$PROJECT_DIR$/src/main/java/br/edu/ufal/bugsmells/model/Correction.java" />
-        <option value="$PROJECT_DIR$/src/main/java/br/edu/ufal/bugsmells/model/Commit.java" />
-        <option value="$PROJECT_DIR$/src/main/java/br/edu/ufal/bugsmells/control/Order.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/br/edu/ufal/bugsmells/model/BugList.java" />
-        <option value="$PROJECT_DIR$/src/main/java/br/edu/ufal/bugsmells/model/CommitReport.java" />
-        <option value="$PROJECT_DIR$/src/main/java/br/edu/ufal/bugsmells/model/CommitFix.java" />
-        <option value="$PROJECT_DIR$/src/main/java/br/edu/ufal/bugsmells/model/Bug.java" />
-        <option value="$PROJECT_DIR$/src/main/java/br/edu/ufal/bugsmells/utils/Util.java" />
-        <option value="$PROJECT_DIR$/src/main/java/br/edu/ufal/bugsmells/control/MineInformation.java" />
-        <option value="$PROJECT_DIR$/src/main/java/br/edu/ufal/bugsmells/utils/ReadJson.java" />
-        <option value="$PROJECT_DIR$/src/main/java/br/edu/ufal/bugsmells/control/GetInformation.java" />
-        <option value="$PROJECT_DIR$/src/main/java/br/edu/ufal/bugsmells/control/App.java" />
-        <option value="$PROJECT_DIR$/src/main/java/br/edu/ufal/bugsmells/view/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/br/edu/ufal/parserbugreport/view/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/br/edu/ufal/parserbugreport/control/App.java" />
-        <option value="$PROJECT_DIR$/src/main/java/br/edu/ufal/parserbugreport/control/GetInformation.java" />
+        <option value="$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/bugsmells/Util.java" />
+        <option value="$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/bugsmells/Okhttp_BugsInfo" />
+        <option value="$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/bugsmells/Presto_BugsInfo" />
+        <option value="$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/bugsmells/Commit.java" />
+        <option value="$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/bugsmells/Presto" />
+        <option value="$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/bugsmells/okhttp" />
+        <option value="$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/bugsmells/App.java" />
+        <option value="$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/bugsmells/Bug.java" />
+        <option value="$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/bugsmells/Correction.java" />
+        <option value="$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/bugsmells/model/Correction.java" />
+        <option value="$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/bugsmells/model/Commit.java" />
+        <option value="$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/bugsmells/control/Order.java" />
+        <option value="$USER_HOME$/Developer/ParserBugReport/issueminer/pom.xml" />
+        <option value="$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/bugsmells/model/BugList.java" />
+        <option value="$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/bugsmells/model/CommitReport.java" />
+        <option value="$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/bugsmells/model/CommitFix.java" />
+        <option value="$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/bugsmells/model/Bug.java" />
+        <option value="$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/bugsmells/utils/Util.java" />
+        <option value="$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/bugsmells/control/MineInformation.java" />
+        <option value="$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/bugsmells/utils/ReadJson.java" />
+        <option value="$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/bugsmells/control/GetInformation.java" />
+        <option value="$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/bugsmells/control/App.java" />
+        <option value="$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/bugsmells/view/Main.java" />
+        <option value="$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/parserbugreport/view/Main.java" />
+        <option value="$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/parserbugreport/control/App.java" />
+        <option value="$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/parserbugreport/control/GetInformation.java" />
       </list>
     </option>
   </component>
@@ -144,18 +124,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ParserBugReport" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
+        <subPane />
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -166,7 +139,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Developer/ParserBugReport/ParserBugReport" />
     <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
@@ -174,8 +147,8 @@
       <recent name="br.edu.ufal.bugsmells.model" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/java/br/edu/ufal/bugsmells/control" />
-      <recent name="$PROJECT_DIR$/src/main/java/br/edu/ufal/bugsmells/utils" />
+      <recent name="$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/bugsmells/control" />
+      <recent name="$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/bugsmells/utils" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -201,7 +174,7 @@
       <option name="MAIN_CLASS_NAME" value="br.edu.ufal.parserbugreport.control.App" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Developer/ParserBugReport/issueminer" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
@@ -221,7 +194,7 @@
       <option name="MAIN_CLASS_NAME" value="br.edu.ufal.parserbugreport.view.Main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Developer/ParserBugReport/issueminer" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
@@ -241,7 +214,7 @@
       <option name="MAIN_CLASS_NAME" value="br.edu.ufal.bugsmells.utils.Util" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Developer/ParserBugReport/issueminer" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
@@ -261,7 +234,7 @@
       <option name="MAIN_CLASS_NAME" value="br.edu.ufal.bugsmells.utils.ReadJson" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Developer/ParserBugReport/issueminer" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
@@ -338,7 +311,7 @@
       <option name="MAIN_CLASS_NAME" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Developer/ParserBugReport/issueminer" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
@@ -775,13 +748,12 @@
       <workItem from="1506559118435" duration="828000" />
       <workItem from="1506624990001" duration="3095000" />
       <workItem from="1506700293016" duration="819000" />
-      <workItem from="1506701401266" duration="709000" />
-      <workItem from="1506702177010" duration="27000" />
+      <workItem from="1506701401266" duration="770000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88083000" />
+    <option name="totallyTimeSpent" value="88117000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -794,7 +766,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -803,13 +775,14 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959327" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34578314" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34578314" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22889842" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22889842" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -824,7 +797,6 @@
       <window_info id="JDT AST" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -885,7 +857,115 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/edu/ufal/parserbugreport/view/Main.java">
+    <entry file="file://$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/parserbugreport/control/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/bugsmells/control/MineInformation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2400">
+          <caret line="172" column="40" selection-start-line="172" selection-start-column="40" selection-end-line="172" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/bugsmells/utils/ReadJson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/bugsmells/model/Commit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/parserbugreport/model/Bug.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/parserbugreport/control/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/bugsmells/control/MineInformation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2580">
+          <caret line="172" column="40" selection-start-line="172" selection-start-column="40" selection-end-line="172" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/bugsmells/model/Commit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/parserbugreport/model/Bug.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/parserbugreport/control/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/bugsmells/model/Commit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/parserbugreport/model/Bug.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/bugsmells/utils/ReadJson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/parserbugreport/control/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/bugsmells/model/Commit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/parserbugreport/model/Bug.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -893,110 +973,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/edu/ufal/parserbugreport/control/App.java">
+    <entry file="file://$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/bugsmells/control/MineInformation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        <state relative-caret-position="2400">
+          <caret line="172" column="40" selection-start-line="172" selection-start-column="40" selection-end-line="172" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/bugsmells/model/Commit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/edu/ufal/parserbugreport/control/App.java">
+    <entry file="file://$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/bugsmells/utils/ReadJson.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        <state relative-caret-position="225">
+          <caret line="15" column="23" selection-start-line="0" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/edu/ufal/bugsmells/control/MineInformation.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/edu/ufal/bugsmells/utils/ReadJson.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/edu/ufal/bugsmells/model/Commit.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/edu/ufal/parserbugreport/model/Bug.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/edu/ufal/parserbugreport/control/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/edu/ufal/bugsmells/control/MineInformation.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/edu/ufal/bugsmells/model/Commit.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/edu/ufal/parserbugreport/model/Bug.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/edu/ufal/parserbugreport/control/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/edu/ufal/bugsmells/model/Commit.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/edu/ufal/parserbugreport/model/Bug.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/edu/ufal/bugsmells/utils/ReadJson.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/edu/ufal/parserbugreport/control/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/edu/ufal/bugsmells/model/Commit.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/edu/ufal/parserbugreport/model/Bug.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/edu/ufal/bugsmells/control/MineInformation.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/edu/ufal/bugsmells/model/Commit.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/edu/ufal/bugsmells/utils/ReadJson.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/edu/ufal/parserbugreport/control/GetInformation.java">
+    <entry file="file://$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/parserbugreport/control/GetInformation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="328">
           <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/edu/ufal/parserbugreport/model/Bug.java">
+    <entry file="file://$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/parserbugreport/model/Bug.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="82">
           <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/edu/ufal/parserbugreport/model/CommitFix.java">
+    <entry file="file://$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/parserbugreport/model/CommitFix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/edu/ufal/parserbugreport/model/CommitReport.java">
+    <entry file="file://$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/parserbugreport/model/CommitReport.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/edu/ufal/parserbugreport/control/App.java">
+    <entry file="file://$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/parserbugreport/control/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
@@ -1004,10 +1036,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/edu/ufal/parserbugreport/view/Main.java">
+    <entry file="file://$USER_HOME$/Developer/ParserBugReport/issueminer/src/main/java/br/edu/ufal/parserbugreport/view/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        <state relative-caret-position="195">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
       </provider>
